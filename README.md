@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [app](https://learnts-f224b.web.app) for penning down your learning and your thoughts and viewing it in a fun way.
+- 🔭 I’m currently spending free time on this [app](https://learnts-f224b.web.app) which helps penning down your learning and your thoughts and viewing it in a fun way.
 - 🌱 I’m currently learning React , cloud functions
 - 👯 I’m passionate about linux, NFT, Crypto
 - 💬 Ask me about linux, java and cycling
